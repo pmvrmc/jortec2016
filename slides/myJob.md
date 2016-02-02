@@ -20,6 +20,8 @@ Webhooks and HTTP calls
 
 Fast cloud to cloud communications
 
+Fast device to cloud communications (MQTT)
+
 
 ## Fitbit
 

@@ -2,7 +2,7 @@
 
 Largest Electronics Expo in the World!
 
-3-day show in Las Vegas
+4-day show in Las Vegas
 
 <img src='public/ces.png' align="center" height="450em"/>
 

@@ -18,11 +18,9 @@ Back in 2012...
   </br>
   Pivot to Home Automation, control your home from you bed
   </br>
-  </br>
-  Lights, Thermostats, Alarms, wearables, etc.
-  </br>
-  </br>
 </p>
+<img src="public/app.png" style="height:5em" align="center"/>
+</br>
 
 2015 - Introducing AI
 
@@ -46,3 +44,5 @@ Core <span class="hashtag">#HardcoreBackend</span>
 Integrations <span class="hashtag">#WorldOfAPIs</span>
 
 Design <span class="hashtag">#UX #UI</span>
+
+Marketing & BusinessDev <span class="hashtag">#Growth</span>

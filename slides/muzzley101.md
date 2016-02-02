@@ -22,16 +22,16 @@
 ## How IoT will change the world
 
 <p style="text-align: left">
-  In 2020 there will be 4 billion people on Earth
+  In 2020 there will be 8 billion people on Earth
   </br>
   </br>
-  But 24 billion connected devices (6 devices per person!) <span class="hashtag">#iRobot</span>
+  But 24 billion connected devices (3 connected devices per person!) <span class="hashtag">#iRobot</span>
   </br>
   </br>
   IoT is another Industrial Revolution
   </br>
   </br>
-  It as the power to change all industries: Manufacturing, Housing, Agriculture Health  Care, etc.
+  Has the power to change all industries: Manufacturing, Housing, Agriculture, Health Care, etc.
 </p>
 
 
