@@ -43,6 +43,8 @@ Core <span class="hashtag">#HardcoreBackend</span>
 
 Integrations <span class="hashtag">#WorldOfAPIs</span>
 
+Mobile <span class="hashtag">#GoNative</span>
+
 Design <span class="hashtag">#UX #UI</span>
 
 Marketing & BusinessDev <span class="hashtag">#Growth</span>
