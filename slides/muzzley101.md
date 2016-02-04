@@ -25,7 +25,7 @@
   In 2020 there will be 8 billion people on Earth
   </br>
   </br>
-  But 24 billion connected devices (3 connected devices per person!) <span class="hashtag">#iRobot</span>
+  24 billion connected devices (3 connected devices per person!) <span class="hashtag">#iRobot</span>
   </br>
   </br>
   IoT is another Industrial Revolution
